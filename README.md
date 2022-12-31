@@ -4,7 +4,7 @@
 - install from github
 
 ```
-wiz plugin add https://github.com/season-framework/wiz-plugin-terminal
+wiz plugin add https://github.com/season-framework/wiz-plugin-xterm
 ```
 
 - add configuration `System Setting - IDE Menu`
